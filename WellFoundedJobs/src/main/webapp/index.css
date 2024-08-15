@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+*{
+box-sizing:border-box;
+margin:0px;
+padding:0px;
+}
+body{
+	background-image:url("images\onlinejob.webp");
+	background-size:auto;	
+}
+header{
+padding:13px;
+display:flex;
+flex-wrap:wrap;
+justify-content:space-between;
+background:#0072a8;
+}
+header a{
+color:#000093;
+text-decoration:none;
+padding:5px;
+}
+h2 a{
+color:#ffffff;
+}
+h3{
+border-radius:3px 5px;
+background:#ffffff;
+}
